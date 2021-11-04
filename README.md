@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IwanTobeliev
 - 👀 I’m interested in Web/game dev
-- 🌱 I’m currently learning HTML/CSS/Python/Javascript/LUA
+- 🌱 I’m currently learning HTML/CSS/Python/Javascript/LUA on Harvard CS50 courses
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
